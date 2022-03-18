@@ -1,0 +1,97 @@
+nav1 {text-align:center; font-family: "Lucida Console", Monaco, monospace; font-size: 15px;
+margin: 35px;}
+body {
+background-color: Sandybrown;
+font-family: "Open Sans" , sans-serif;
+padding: 5px 20px;
+font-size: 10px;
+margin: 15px;
+color: #CD853F
+}
+h1 {
+font-family: "Merriweather" , serif;
+font-size: 100px;
+margin: 0px;
+color: saddlebrown
+}
+h2 {
+font-family: "Merriweather" , sans-serif;
+font-size: 30px;
+margin: 0px;
+color: #F5DEB3
+}
+p2{
+font-family: "Merriweather" , serif; font-size: 14px;
+margin: 35px;
+  color: sienna}
+h3 {
+font-family: "Merriweather" , sans-serif;
+font-size: 30px;
+margin: 0px;
+color: #F5DEB3
+}
+p1{
+font-family: "Merriweather" , serif; font-size: 14px;
+margin: 35px;
+  color: sienna}
+h4 {
+font-family: "Merriweather" , sans-serif;
+font-size: 30px;
+margin: 0;
+color: #F5DEB3
+}
+p3{
+font-family: "Merriweather" , serif; font-size: 14px;
+margin: 35px;
+  color: sienna}
+h5 {
+font-family: "Merriweather" , sans-serif;
+font-size: 30px;
+margin: 0px;
+color: #F5DEB3
+}
+
+p4{
+font-family: "Merriweather" , serif; font-size: 14px;
+margin: 35px;
+  color: sienna}
+p5{
+font-family: "Merriweather" , serif; font-size: 14px;
+margin: 35px;
+  color: sienna}
+button {
+display: inline-block;
+background-color: saddlebrown;
+border-radius: 30px;
+border: 0px double chocolate;
+color: linen ;
+text-align: center;
+font-size: 15px;
+font-family: "Lucida Console";
+font-color: "linen";
+padding: 0px;
+width: 920px;
+  height: 40px;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+-o-transition: all 0.5s;
+transition: all 0.5s;
+cursor: pointer;
+margin: 20px;
+}
+h6{
+font-family: "Merriweather" , sans-serif;
+font-size: 30px;
+margin: 0px;
+color: #F5DEB3
+}
+p{
+font-family: "Lucida Console", Monaco, monospace; font-size: 15px;
+margin: 35px;
+  color: linen}
+foot {
+font-family: "Merriweather" , serif;
+font-size: 12px;
+margin:0px;
+color: black
+}
